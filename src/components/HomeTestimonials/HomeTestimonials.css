@@ -1,0 +1,19 @@
+.home-testimonials {
+  margin: 20px auto 50px auto;
+  position: relative;
+  width: 100%;
+}
+
+.home-testimonials-heading {
+  text-align: center;
+}
+
+.home-testimonials-heading h2 {
+  color: #6a0818;
+}
+
+@media screen and (max-width: 768px) {
+  .home-testimonials-heading h2 {
+    font-size: 20px;
+  }
+}
